@@ -11,6 +11,7 @@ Interactive visualization of NOAA HURDAT2 hurricane data.
 - ⏱️ Timeline scrubber to animate storm progression
 - 📷 Export maps as PNG with legend
 - 📊 Export filtered data as CSV
+- ⏱️ Weekly check for new data from NOAA's HURRDAT and update.
 
 ## Data Updates
 
